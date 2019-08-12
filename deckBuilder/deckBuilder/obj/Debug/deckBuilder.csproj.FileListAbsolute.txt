@@ -1,0 +1,10 @@
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\bin\Debug\deckBuilder.exe.config
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\bin\Debug\deckBuilder.exe
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\bin\Debug\deckBuilder.pdb
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\obj\Debug\deckBuilder.csprojAssemblyReference.cache
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\obj\Debug\deckBuilder.Form1.resources
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\obj\Debug\deckBuilder.Properties.Resources.resources
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\obj\Debug\deckBuilder.csproj.GenerateResource.cache
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\obj\Debug\deckBuilder.csproj.CoreCompileInputs.cache
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\obj\Debug\deckBuilder.exe
+C:\Users\vergi\source\repos\deckBuilder\deckBuilder\obj\Debug\deckBuilder.pdb
