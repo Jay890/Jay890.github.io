@@ -1,0 +1,7 @@
+C:\Users\vergi\source\repos\odssOn\odssOn\bin\Debug\odssOn.exe.config
+C:\Users\vergi\source\repos\odssOn\odssOn\bin\Debug\odssOn.exe
+C:\Users\vergi\source\repos\odssOn\odssOn\bin\Debug\odssOn.pdb
+C:\Users\vergi\source\repos\odssOn\odssOn\obj\Debug\odssOn.csprojAssemblyReference.cache
+C:\Users\vergi\source\repos\odssOn\odssOn\obj\Debug\odssOn.csproj.CoreCompileInputs.cache
+C:\Users\vergi\source\repos\odssOn\odssOn\obj\Debug\odssOn.exe
+C:\Users\vergi\source\repos\odssOn\odssOn\obj\Debug\odssOn.pdb
